@@ -1,2 +1,2 @@
 # TICKIE
-https://github.com/jairajrenjith/Tickie
+https://jairajrenjith.github.io/Tickie/
